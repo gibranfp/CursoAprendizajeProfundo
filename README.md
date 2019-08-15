@@ -10,7 +10,7 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 6. Auto-codificadores
 7. Redes generativas
 
-## Instalación
+## Ambiente de programación
 Para ejecutar los ejercicios y *notebooks* de este repositorio se requiere lo siguiente:
 
 * Python (>= 3.7)
