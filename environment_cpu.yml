@@ -1,0 +1,22 @@
+name: aprendizaje_profundo
+channels:
+   - defaults
+   - anaconda
+   - conda-forge
+dependencies:
+   - python=3.7.3
+   - numpy=1.17.0
+   - scipy=1.3.1
+   - joblib=0.13.2
+   - pandas=0.25.0
+   - matplotlib=3.1.1
+   - seaborn=0.9.0
+   - jupyterlab
+   - scikit-learn=0.21.3
+   - pip:
+     - tensorflow==2.0.0-beta1
+     - tensorboard
+     - tensorflow_probability
+     - tensorflow-addons
+     - tensorflow_hub
+     
