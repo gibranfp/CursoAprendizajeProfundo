@@ -13,7 +13,7 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 ## Ambiente de programación
 Para ejecutar los ejercicios y *notebooks* de este repositorio se requiere lo siguiente:
 
-* Python (>= 3.7)
+* Python (>= 3.6)
 * [Tensorflow 2](https://www.tensorflow.org/), que adopta [Keras](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras) como interfaz de alto nivel para construir y entrenar redes neuronales.
 * [Tensorflow Probability](https://www.tensorflow.org/probability/)
 * [Tensorboard](https://www.tensorflow.org/tensorboard/)
