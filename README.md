@@ -34,7 +34,7 @@ Se sugiere trabajar en un ambiente GPU, el cual puedes activar de la siguiente m
 * Elige `Cambiar tipo de entorno de ejecución` 
 * Selecciona Python 3 como `Tipo de ejecución` y GPU de la lista de `Acelerador por hardware`
 
-![](media/escoge_acelerador.png)
+![](figs/escoge_acelerador.png)
 
 Puedes crear un nuevo *notebook* desde Colab, subir uno existente desde tu computadora o importarlo de Google Drive o GitHub. 
 
@@ -65,7 +65,7 @@ jupyter notebook
 
 Este comando abrirá una pestaña o ventana en tu navegador web, como se muestra en la siguiente captura de pantalla:
 
-![](media/jupyter_notebook.png)
+![](figs/jupyter_notebook.png)
 
 Aquí puedes crear un nuevo *notebook* seleccionando el botón `New` y posteriormente `Python 3`. También puedes cargar uno existente seleccionando un archivo con extensión `.ipynb` dentro del directorio donde se lanzó el comando. Con `Upload` agregas archivos que se encuentran en otra parte de tu computadora a este directorio. Para salir, simplemente presiona el botón `Quit` y cierra la pestaña o ventada correspondiente. 
  
