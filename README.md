@@ -1,6 +1,8 @@
 # Curso de aprendizaje profundo 2021-I, PCIC-UNAM
 Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo del curso de [aprendizaje profundo del PCIC-UNAM](http://turing.iimas.unam.mx/~gibranfp/cursos/aprendizaje_profundo/) 2021-I.
 
+El código de acceso del Google Classroom es el siguiente: jc2wc4k
+
 ## Temario
 1. Redes densas
 2. Redes convolucionales
@@ -12,7 +14,7 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 8. Sesgo e imparcialidad
 9. Temas selectos
 
-El código de acceso del Google Classroom es el siguiente: jc2wc4k
+
 
 
 <!-- ## Ambiente de programación
