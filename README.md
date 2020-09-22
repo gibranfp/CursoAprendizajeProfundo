@@ -12,6 +12,8 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 8. Sesgo e imparcialidad
 9. Temas selectos
 
+El código de acceso del Google Classroom es el siguiente: jc2wc4k
+
 
 <!-- ## Ambiente de programación
 Para ejecutar los ejercicios y *notebooks* de este repositorio se requiere lo siguiente:
