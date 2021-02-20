@@ -11,8 +11,7 @@ El código de acceso del Google Classroom es el siguiente: jc2wc4k
 5. Mecanismos de atención y memoria externa
 6. Modelos generativos
 7. Redes generativas
-8. Sesgo e imparcialidad
-9. Temas selectos
+8. Temas selectos
 
 
 ## Ambiente de programación
