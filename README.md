@@ -11,6 +11,13 @@ Este repositorio contiene las diapositivas, libretas y tareas del curso de apren
 6. Redes generativas
 7. Temas selectos
 
+## Clonar rama
+Este repositorio contiene el material de cursos anteriores y puede ser algo pesado clonarlo completamente. Para clonar únicamente la rama del curso 2022-1, debes hacerlo con el siguiente comando:
+
+```
+git clone --branch 2022-1 --single-branch https://github.com/gibranfp/CursoAprendizajeProfundo.git
+```
+
 ## Ambiente de programación
 
 Para ejecutar los ejercicios y las libretas de este repositorio se tienen dos opciones:
