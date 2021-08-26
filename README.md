@@ -44,7 +44,7 @@ Puedes crear una nueva libreta (*notebook*) desde Colab, subir una existente des
 Para instalar el ambiente en nuestra computadora primero debemos instalar Anaconda siguiendo las [instrucciones](https://docs.anaconda.com/anaconda/install/) oficiales. Después, desde una terminal creamos el ambiente con el archivo de dependencias:
 
 ```
-conda env create --f environment.yml
+conda env create --file environment.yml
 ```
 
 Enseguida, activamos el ambiente:
