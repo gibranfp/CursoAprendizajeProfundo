@@ -22,9 +22,9 @@ git clone --branch 2023-1 --single-branch https://github.com/gibranfp/CursoApren
 Para ejecutar los ejercicios y las libretas de este repositorio se tienen dos opciones:
 
 * Servicios de libretas en la nube
- * [Google Colab](https://colab.research.google.com/)
- * [Kaggle](https://www.kaggle.com/)
- * [Paperspace](https://www.paperspace.com/)
+    * [Google Colab](https://colab.research.google.com/)
+    * [Kaggle](https://www.kaggle.com/)
+    * [Paperspace](https://www.paperspace.com/)
 * Ambiente local
 
 ### Ambiente local
