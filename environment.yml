@@ -1,0 +1,20 @@
+name: cap
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.3
+  - ca-certificates
+  - certifi
+  - openssl
+  - tensorboard
+  - scikit-image
+  - tqdm
+  - ipywidgets
